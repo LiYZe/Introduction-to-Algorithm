@@ -1,5 +1,8 @@
 # Inertion Sort
-
+- [Pseudo-code](#Pseudo-code)
+- [Analyse](#Analyse)
+  - [Worst case](#Worst-case) 
+- [Code](#Code)
 ## Pseudo-code
 
 ```bash
@@ -20,4 +23,7 @@ Inertion_sort(A[1...n]
 input reverse sorted (Arithmetic series)
 ```bash
 T(n) = θ(n^2)
+```
+## Code
+```bash
 ```
